@@ -1,3 +1,3 @@
-## useContext with TypeScipt
+## useContext with TypeScript
 
 #DeymerH
